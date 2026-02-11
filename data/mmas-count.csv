@@ -1,0 +1,56 @@
+MRCA_ref,location,Hospital,patient_ID,sample_date,CF_status
+mmassiliense,Montreal,CHUM,M02,2014-07-29,
+mmassiliense,Montreal,St Luc,M07,2013-06-06,1
+mmassiliense,Montreal,St Luc,M07,2014-01-23,1
+mmassiliense,Montreal,St Luc,M07,2014-10-07,1
+mmassiliense,Montreal,St Luc,M07,2015-07-28,1
+mmassiliense,Montreal,St Luc,M07,2016-02-02,1
+mmassiliense,Montreal,St Luc,M07,2016-09-29,1
+mmassiliense,Montreal,St Luc,M07,2017-01-26,1
+mmassiliense,Montreal,St Luc,M07,2017-06-06,1
+mmassiliense,Montreal,RVH,M07,2017-12-28,1
+mmassiliense,Montreal,St Luc,M19,2017-12-05,
+mmassiliense,Montreal,St Luc,M19,2017-12-19,
+mmassiliense,Montreal,JGH,M23,2017-12-28,
+mmassiliense,Montreal,St Luc,M24,2015-10-15,1
+mmassiliense,Montreal,St Luc,M25,2014-05-27,1
+mmassiliense,Montreal,RVH,M39,2017-03-10,
+mmassiliense,Montreal,St Luc,M45,2015-01-08,1
+mmassiliense,Montreal,St Luc,M45,2015-12-29,1
+mmassiliense,Montreal,St Luc,M45,2016-01-21,1
+mmassiliense,Montreal,St Luc,M45,2016-07-28,1
+mmassiliense,Montreal,St Luc,M45,2017-03-28,1
+mmassiliense,Montreal,St Luc,M45,2017-05-23,1
+mmassiliense,Montreal,RVH,M54,2017-12-01,
+mmassiliense,Montreal,St Luc,M56,2017-11-03,
+mmassiliense,Montreal,St Luc,M61,2017-11-29,
+mmassiliense,Montreal,St Luc,M68,2015-03-26,
+mmassiliense,Montreal,St Luc,M69,2013-05-09,
+mmassiliense,Montreal,St Luc,M69,2014-08-07,
+mmassiliense,Montreal,St Luc,M69,2015-08-18,
+mmassiliense,Montreal,HMR  - Ste Justine,M70,2015-03-20,
+mmassiliense,Montreal,RVH,M71,2017-07-05,
+mmassiliense,Montreal,RVH,M71,2017-07-20,
+mmassiliense,Montreal,RVH,M71,2017-09-05,
+mmassiliense,Montreal,St Luc,M73,2016-02-23,
+mmassiliense,Montreal,St Luc,M73,2016-02-23,
+mmassiliense,Montreal,RVH,M74,2015-07-23,
+mmassiliense,Montreal,RVH,M74,2015-09-11,
+mmassiliense,Montreal,RVH,M76,2014-10-28,
+mmassiliense,Montreal,St Luc,M77,2014-11-20,
+mmassiliense,Montreal,St Luc,M78,2013-12-30,
+mmassiliense,Montreal,RVH,M78,2017-07-11,
+mmassiliense,Montreal,St Luc,M79,2017-03-21,
+mmassiliense,Montreal,RVH,M79,2017-08-15,
+mmassiliense,Montreal,RVH,M79,2017-12-28,
+mmassiliense,Montreal,Sacre-Coeur,M87,2015-07-24,
+mmassiliense,Quebec area,St Luc,QC01,NA,
+mmassiliense,Quebec area,St Luc,QC03,NA,
+mmassiliense,Quebec area,St Luc,QC10,NA,
+mmassiliense,Quebec area,St Luc,QC15,NA,
+mmassiliense,Quebec area,St Luc,QC17,NA,
+mmassiliense,Quebec area,St Luc,QC18,NA,
+mmassiliense,Quebec area,St Luc,QC19,NA,
+mmassiliense,Quebec area,St Luc,QC25,NA,
+mmassiliense,Quebec area,St Luc,QC27,NA,
+mmassiliense,Quebec area,St Luc,QC28,NA,
