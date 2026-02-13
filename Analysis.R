@@ -242,7 +242,7 @@ tree1.3 <- reorder(mmas.tree)
 mmas.cc <- read.csv('mmas.mlst.csv', header=T)
 mmas.cc$CC <- factor(mmas.cc$CC)
 mmas.cc$ST <- factor(mmas.cc$ST)
-mmas.pangenome <- read.newick('mmas-new_accessory_binary_genes.fa.newick')
+mmas.pangenome <- read.newick('mmas-new_accessory_binary_genes.fa.2.newick')
 mmas.pangenome <- reorder(mmas.pangenome)
 
 tree.tips.mmas <- ggtree(midpoint(tree1.3)) %<+% mmas.cc +
