@@ -333,6 +333,16 @@ L2 = ggplot(TTcon2, aes(x = x, y = y, colour = patient_ID, group = label)) + geo
   theme_void() + theme(legend.position="none", plot.margin = unit(c(0,0,0,0),"cm"))
 cowplot::plot_grid(tree2, L2, mabs.pangenome1, nrow = 1, align = 'hv')
 
+## Calculate Distances between Trees using Generalized Robinson-Foulds distances
+library(TreeDist)
+library(treeio)
+
+## RF distance for Mabs tree
+TreeDistance(mabs.pangenome, mabs.tree)
+
+## RF distance for Mmas tree
+TreeDistance(mmas.pangenome, mmas.tree)
+
 #### Supplementary Data ####
 # Supplementary figure 2 - Patients with multiple isolates
 # Metadata file has 4 columns: /patient_ID/sample_date/Subspecies/sample_ID/
